@@ -1,1 +1,15 @@
 Hola
+
+git init ---> Inicializar el repositorio
+git remote ---> Saber el origen del repositorio 
+git remote --v ---> muestra el origen completamente (url)
+git status ---> estado del repositorio
+git add. ---> adiciona todos los cambios locales
+git commit -m ---> "Adiciona un comentario a los cambios que hice"
+git branch ---> Saber la rama actual
+git branch <<nombre>> ---> crea una rama
+git checkout <<nombre de branch>> cambio a la rama <<nombre del branch>>
+git checkout -b ---> crea la rama  y me pasa a ella
+git push origin <<nombre branch>> montar los cambios en la rama respectiva, en el repositorio remoto
+git pull <<nombre remoto>> <<nombre branch>>
+git branch -d <<nombre branch>>  
