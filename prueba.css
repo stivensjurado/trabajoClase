@@ -1,0 +1,48 @@
+#first-id{
+    color: aquamarine;
+}
+
+#primer-id{
+    color: red !important;
+}
+
+#segundo-id{
+    color: blue !important;
+}
+
+#tercer-id{
+    color: greenyellow !important;
+}
+
+#cuarto-id{
+    color: yellowgreen !important;
+}
+
+#quinto-id{
+    color: burlywood !important;
+}
+
+#sexto-id{
+    color: rebeccapurple !important;
+}
+
+#septimo-id{
+    color: darkgreen !important;
+}
+
+#octavo-id{
+    color: black !important;
+}
+
+#noveno-id{
+    color: darkorchid !important;
+}
+
+#decimo-id{
+    color: khaki !important;
+}
+
+div{
+    height: 50px;
+    width: 50px;
+}
