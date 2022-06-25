@@ -42,7 +42,11 @@
     color: khaki !important;
 }
 
-div{
+.father{
+
+}
+
+.child{
     height: 50px;
     width: 50px;
 }

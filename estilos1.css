@@ -1,0 +1,16 @@
+img{
+    height: 120px;
+    width: 120px;
+}
+
+ul{
+    margin-top: 70px;
+}
+
+.nav-link{
+    color: white;
+}
+
+#encabezado{
+    background-color: #052342;
+}
